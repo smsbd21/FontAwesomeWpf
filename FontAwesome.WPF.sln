@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FontAwesome.WPF", "FontAwesome.WPF\FontAwesome.WPF.csproj", "{28491411-D505-4B8E-9379-5E8C546357EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fontawesome.WPF.Example", "Fontawesome.WPF.Example\Fontawesome.WPF.Example.csproj", "{F7FFF68B-537F-4D34-9005-08555B12C8F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28491411-D505-4B8E-9379-5E8C546357EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28491411-D505-4B8E-9379-5E8C546357EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28491411-D505-4B8E-9379-5E8C546357EC}.Debug|x86.ActiveCfg = Debug|x86
+		{28491411-D505-4B8E-9379-5E8C546357EC}.Debug|x86.Build.0 = Debug|x86
+		{28491411-D505-4B8E-9379-5E8C546357EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28491411-D505-4B8E-9379-5E8C546357EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28491411-D505-4B8E-9379-5E8C546357EC}.Release|x86.ActiveCfg = Release|x86
+		{28491411-D505-4B8E-9379-5E8C546357EC}.Release|x86.Build.0 = Release|x86
+		{F7FFF68B-537F-4D34-9005-08555B12C8F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7FFF68B-537F-4D34-9005-08555B12C8F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7FFF68B-537F-4D34-9005-08555B12C8F2}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F7FFF68B-537F-4D34-9005-08555B12C8F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7FFF68B-537F-4D34-9005-08555B12C8F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7FFF68B-537F-4D34-9005-08555B12C8F2}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+﻿<Window x:Class="Fontawesome.WPF.Example.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:font="http://schemas.acid.cl/fontawesome"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <font:IconBlock FontSize="100" Icon="Ambulance" VerticalAlignment="Center" HorizontalAlignment="Center" />
+    </Grid>
+</Window>
