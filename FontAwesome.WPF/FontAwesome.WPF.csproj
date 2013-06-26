@@ -93,7 +93,9 @@
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
-    <Resource Include="fontawesome-webfont.ttf" />
+    <Resource Include="..\Font-Awesome\font\FontAwesome.otf">
+      <Link>FontAwesome.otf</Link>
+    </Resource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
